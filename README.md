@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ben Smith
 - 👀 I’m interested in ... Music.
-- 🌱 I’m currently learning ... Javascript, React Native, Rust.
+- 🌱 I’m currently learning ... Javascript, ReactJS, React Native, Rust.
 - 💞️ I’m looking to collaborate on ... Music dApps.
 - 📫 How to reach me ... @EnemaTreasure (Twitter)
 
