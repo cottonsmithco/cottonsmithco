@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ben Smith
-- 👀 I’m interested in ... Design, Music.
+- 👀 I’m interested in ... Front End Design, Music.
 - 🌱 I’m currently learning ... Javascript, ReactJS, React Native, Rust.
 - 💞️ I’m looking to collaborate on ... Music dApps, UI/UX and Design.
 - 📫 How to reach me ... @EnemaTreasure (Twitter)
